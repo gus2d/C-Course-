@@ -8,9 +8,7 @@ namespace Aprendendo.Entities
     {
         static void Main(string[] args)
         {
-            try
-            {
-
+            
                 Console.WriteLine("Enter account data");
                 Console.Write("Number: ");
                 int number = int.Parse(Console.ReadLine());
@@ -21,7 +19,8 @@ namespace Aprendendo.Entities
 
 
                 Account account = new Account(number, holder, balance, 500);
-
+            try
+            {
                 Console.WriteLine();
                 Console.Write("Enter amount for withdraw: ");
                 double amount = double.Parse(Console.ReadLine());
