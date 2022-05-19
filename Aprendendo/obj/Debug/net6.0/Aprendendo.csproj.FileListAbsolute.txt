@@ -1,0 +1,15 @@
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.exe
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.deps.json
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.runtimeconfig.json
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.dll
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\bin\Debug\net6.0\Aprendendo.pdb
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.csproj.AssemblyReference.cache
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.AssemblyInfoInputs.cache
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.AssemblyInfo.cs
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.dll
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\ref\Aprendendo.dll
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.pdb
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\Aprendendo.genruntimeconfig.cache
+C:\Users\Win-10\source\repos\Aprendendo\Aprendendo\obj\Debug\net6.0\refint\Aprendendo.dll
