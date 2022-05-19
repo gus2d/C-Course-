@@ -18,10 +18,9 @@ namespace Aprendendo.Entities
                 string holder = Console.ReadLine();
                 Console.Write("Initial balance: ");
                 double balance = double.Parse(Console.ReadLine());
-                Console.Write("Withdraw limit: ");
-                double limit = double.Parse(Console.ReadLine());
 
-                Account account = new Account(number, holder, balance, limit);
+
+                Account account = new Account(number, holder, balance, 500);
 
                 Console.WriteLine();
                 Console.Write("Enter amount for withdraw: ");
